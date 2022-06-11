@@ -2,9 +2,9 @@ name: Build Test
 
 on:
   push:
-    branches: [ master ]
+    branches: [ build ]
   pull_request:
-    branches: [ master ]
+    branches: [ build ]
 
 jobs:
 
@@ -15,7 +15,7 @@ jobs:
         matrix:
           dc: [dmd-latest, ldc-latest]
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
 
     - name: Install System Dependencies
       run: |
@@ -50,7 +50,7 @@ jobs:
     name: Debian Testing
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
 
     - name: Create Build Environment
       run: cd .github/ci/ && podman build -t tilix -f ./Dockerfile-debian-testing .
@@ -68,7 +68,7 @@ jobs:
     name: Ubuntu LTS
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
 
     - name: Create Build Environment
       run: cd .github/ci/ && podman build -t tilix -f ./Dockerfile-ubuntu-jammy .
