@@ -2049,6 +2049,7 @@ private:
                             groups ~= info.fetchAll();
                             foreach(group; groups) tracef("Group %s", group);
                             string command = replaceMatchTokens(tr.command, groups);
+                            command = replaceVariables(command);
                             trace("Command: " ~ command);
                             string[string] env;
                             spawnShell(command, env, Config.none, currentLocalDirectory);
@@ -3698,7 +3699,7 @@ private:
 
 // Theme changed
 private:
-    void onThemeChanged(string theme) {
+    void onThemeChanged() {
         //Get CSS Provider updated via preference
         applyPreference(SETTINGS_PROFILE_BG_COLOR_KEY);
     }

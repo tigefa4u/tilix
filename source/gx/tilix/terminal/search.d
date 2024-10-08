@@ -151,6 +151,16 @@ private:
 
         bSearch.add(bButtons);
 
+        Button btnClose = new Button("window-close-symbolic", IconSize.MENU);
+        btnClose.setTooltipText(_("Close search box"));
+        btnClose.setRelief(ReliefStyle.NONE);
+        btnClose.setFocusOnClick(true);
+        btnClose.addOnClicked(delegate(Button) {
+            setRevealChild(false);
+            vte.grabFocus();
+        });
+        bSearch.packEnd(btnClose, false, false, 0);
+
         Frame frame = new Frame(bSearch, null);
         frame.setShadowType(ShadowType.NONE);
         frame.getStyleContext().addClass("tilix-search-frame");
