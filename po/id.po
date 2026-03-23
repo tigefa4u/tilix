@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: terminix\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-08 21:52+0100\n"
-"PO-Revision-Date: 2021-03-25 00:29+0000\n"
-"Last-Translator: Reza Almanda <rezaalmanda27@gmail.com>\n"
+"PO-Revision-Date: 2026-03-24 11:35+0000\n"
+"Last-Translator: Arif Budiman <arifpedia@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/tilix/"
 "translations/id/>\n"
 "Language: id\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.5.2-dev\n"
+"X-Generator: Weblate 5.17-dev\n"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:4
 #: data/pkg/desktop/com.gexperts.Tilix.desktop.in:4
@@ -27,11 +27,11 @@ msgstr "Tilix"
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:5
 #: data/pkg/desktop/com.gexperts.Tilix.desktop.in:5
 msgid "A tiling terminal for GNOME"
-msgstr ""
+msgstr "Terminal tiling untuk GNOME"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:9
 msgid "Tilix is a tiling terminal emulator."
-msgstr ""
+msgstr "Tilix adalah emulator terminal tiling."
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:12
 msgid "It lets you:"
@@ -41,26 +41,32 @@ msgstr "Ini memungkinkan Anda:"
 msgid ""
 "Layout terminals in any fashion by splitting them horizontally or vertically"
 msgstr ""
+"Tata letak terminal dengan cara apa pun dengan membaginya secara horizontal "
+"atau vertikal"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:15
 msgid ""
 "Terminals can be re-arranged using drag and drop both within and between "
 "windows"
 msgstr ""
+"Terminal dapat disusun ulang menggunakan seret dan lepas baik di dalam "
+"maupun antar jendela"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:16
 msgid "Terminals can be detached into a new window via drag and drop"
-msgstr ""
+msgstr "Terminal dapat dilepas ke jendela baru melalui seret dan lepas"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:17
 msgid ""
 "Input can be synchronized between terminals so commands typed in one "
 "terminal are replicated to the others"
 msgstr ""
+"Masukan dapat disinkronkan antar terminal sehingga perintah yang diketik di "
+"satu terminal direplikasi ke terminal lainnya"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:18
 msgid "The grouping of terminals can be saved and loaded from disk"
-msgstr ""
+msgstr "Pengelompokan terminal dapat disimpan dan dimuat dari disk"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:19
 msgid "Terminals support custom titles"
@@ -71,6 +77,8 @@ msgid ""
 "Color schemes are stored in files and custom color schemes can be created by "
 "simply creating a new file"
 msgstr ""
+"Skema warna disimpan dalam file dan skema warna kustom dapat dibuat cukup "
+"dengan membuat file baru"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:21
 msgid "Transparent background"
@@ -78,7 +86,7 @@ msgstr "Latar belakang transparan"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:22
 msgid "Supports notifications when processes are completed out of view"
-msgstr ""
+msgstr "Mendukung notifikasi ketika proses selesai di luar tampilan"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:24
 msgid ""
@@ -86,6 +94,9 @@ msgid ""
 "GNOME Human Interface Guidelines (HIG). As a result, it does use client-side-"
 "decorations, though it can be disabled if necessary."
 msgstr ""
+"Aplikasi ini ditulis menggunakan GTK 3 dan diupayakan untuk sesuai dengan "
+"Panduan Antarmuka Manusia GNOME (HIG). Akibatnya, aplikasi ini menggunakan "
+"dekorasi sisi klien, meskipun dapat dinonaktifkan jika diperlukan."
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:28
 msgid "Tilix has been tested with GNOME and with Unity."
@@ -93,7 +104,7 @@ msgstr "Tilix telah diuji dengan GNOME dan Unity."
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:58
 msgid "Tilix is still looking for a new maintainer!"
-msgstr ""
+msgstr "Tilix masih mencari pengelola baru!"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:59
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:85
@@ -102,15 +113,15 @@ msgstr "Rilis ini menambahkan fitur berikut:"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:61
 msgid "Disable advanced paste when there is no linebreak like iTerm2"
-msgstr ""
+msgstr "Nonaktifkan tempel lanjutan ketika tidak ada jeda baris seperti iTerm2"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:62
 msgid "Add environment variable when in quake mode"
-msgstr ""
+msgstr "Tambahkan variabel lingkungan saat dalam mode quake"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:63
 msgid "Add possibility to configure always enabled regex"
-msgstr ""
+msgstr "Tambahkan kemungkinan untuk mengonfigurasi regex yang selalu diaktifkan"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:65
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:91
@@ -121,46 +132,50 @@ msgstr "Rilis ini memperbaiki bug berikut:"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:67
 msgid "More appdata -&gt; metainfo move"
-msgstr ""
+msgstr "Lebih banyak pemindahan appdata -&gt; metainfo"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:68
 msgid "Add meson target for man page translations"
-msgstr ""
+msgstr "Tambahkan target meson untuk terjemahan halaman manual"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:69
 msgid "Update flatpak manifest"
-msgstr ""
+msgstr "Perbarui manifes flatpak"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:70
 msgid "meson: drop unused argument for i18n.merge_file()"
-msgstr ""
+msgstr "meson: hapus argumen yang tidak digunakan untuk i18n.merge_file()"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:71
 msgid "Stop using deprecated Meson features"
-msgstr ""
+msgstr "Hentikan penggunaan fitur Meson yang sudah usang"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:72
 msgid ""
 "Keep quake window open if focus is restored before timeout has been reached"
 msgstr ""
+"Pertahankan jendela quake tetap terbuka jika fokus dipulihkan sebelum batas "
+"waktu tercapai"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:73
 msgid "Don't check GtkDragResult"
-msgstr ""
+msgstr "Jangan periksa GtkDragResult"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:74
 msgid "Don't add application/x-rootwindow-drop to dragSourceSet targets"
-msgstr ""
+msgstr "Jangan tambahkan application/x-rootwindow-drop ke target dragSourceSet"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:76
 msgid "With contributions from:"
-msgstr ""
+msgstr "Dengan kontribusi dari:"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:77
 msgid ""
 "Alan Scherger, Antoine Belvire, David King, Jan Beich, kohnish, luk1337, "
 "matishadow, Winston Hoy, Matthias Klumpp"
 msgstr ""
+"Alan Scherger, Antoine Belvire, David King, Jan Beich, kohnish, luk1337, "
+"matishadow, Winston Hoy, Matthias Klumpp"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:83
 msgid ""
@@ -168,6 +183,9 @@ msgid ""
 "maintenance is done, no new features will be implemented and pull-requests "
 "may be reviewed very slowly."
 msgstr ""
+"Tilix mencari pengelola! Saat ini, hanya pemeliharaan minimal yang "
+"dilakukan, tidak ada fitur baru yang akan diimplementasikan dan permintaan "
+"tarik mungkin ditinjau sangat lambat."
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:84
 msgid "If you are interested in helping Tilix, please chime in!"
@@ -179,7 +197,7 @@ msgstr "Memasang skema warna Yaru"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:88
 msgid "Give every tab the ${title}"
-msgstr "setiap tab ditandai ${title}"
+msgstr "Berikan ${title} pada setiap tab"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:89
 msgid "Add option to strip trailing whitespace on paste"
@@ -191,69 +209,71 @@ msgstr "Perbaiki sesi yang sudah disimpan"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:94
 msgid "Add shortcut to \"Unselect all\""
-msgstr ""
+msgstr "Tambahkan pintasan untuk \"Batalkan pilih semua\""
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:95
 msgid "Many Meson buildsystem fixes"
-msgstr ""
+msgstr "Banyak perbaikan sistem build Meson"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:96
 msgid "Avoid missing the previous command exit code when encoding URLs"
-msgstr ""
+msgstr "Hindari melewatkan kode keluar perintah sebelumnya saat mengenkode URL"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:97
 msgid "Resolve some D deprecation messages"
-msgstr ""
+msgstr "Selesaikan beberapa pesan depresiasi D"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:98
 msgid "Mention powerline/fonts in README"
-msgstr ""
+msgstr "Sebutkan powerline/fonts di README"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:99
 msgid "Avoid calling `values()` on a shared object"
-msgstr ""
+msgstr "Hindari memanggil `values()` pada objek bersama"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:100
 msgid "Update metainfo data"
-msgstr ""
+msgstr "Perbarui data metainfo"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:101
 msgid "Drop compat code for older D frontend versions"
-msgstr ""
+msgstr "Hapus kode kompatibilitas untuk versi frontend D yang lebih lama"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:102
 msgid "Bump minimum VTE version to 0.46"
-msgstr ""
+msgstr "Naikkan versi minimum VTE ke 0.46"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:103
 msgid "Remove deprecated Autotools support"
-msgstr ""
+msgstr "Hapus dukungan Autotools yang sudah usang"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:104
 msgid "Add release notes, NEWS file, automatic metainfo update"
-msgstr ""
+msgstr "Tambahkan catatan rilis, file NEWS, pembaruan metainfo otomatis"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:105
 msgid "Update to GtkD 3.9.0"
-msgstr ""
+msgstr "Perbarui ke GtkD 3.9.0"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:107
 msgid "This release updates translations."
-msgstr ""
+msgstr "Rilis ini memperbarui terjemahan."
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:112
 msgid "This release fixes the following bug:"
-msgstr ""
+msgstr "Rilis ini memperbaiki bug berikut:"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:114
 msgid ""
 "Fixes a problem with the session sidebar getting out of sync after having "
 "deleted a session. See issues #1680, #1637 and #1699."
 msgstr ""
+"Memperbaiki masalah dengan bilah sisi sesi yang tidak sinkron setelah "
+"menghapus sesi. Lihat isu #1680, #1637, dan #1699."
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:122
 msgid "Remove app menu for gnome 3.32"
-msgstr ""
+msgstr "Hapus menu aplikasi untuk gnome 3.32"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:123
 msgid "Update icon"
@@ -261,19 +281,19 @@ msgstr "Perbarui ikon"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:124
 msgid "Minor fixes"
-msgstr ""
+msgstr "Perbaikan kecil"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:132
 msgid "Small release to update localizations"
-msgstr ""
+msgstr "Rilis kecil untuk memperbarui pelokalan"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:133
 msgid "Update to GtkD 3.8.5 to fix library name in GtkD."
-msgstr ""
+msgstr "Perbarui ke GtkD 3.8.5 untuk memperbaiki nama pustaka di GtkD."
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:139
 msgid "Some new features and bug fixes."
-msgstr ""
+msgstr "Beberapa fitur baru dan perbaikan bug."
 
 #: data/nautilus/open-tilix.py:119
 msgid "Open Remote Tilix"
@@ -721,12 +741,12 @@ msgstr "Halaman bawah"
 #: data/resources/ui/shortcuts.ui:497
 msgctxt "shortcut window"
 msgid "Previous prompt"
-msgstr ""
+msgstr "Prompt sebelumnya"
 
 #: data/resources/ui/shortcuts.ui:503
 msgctxt "shortcut window"
 msgid "Next prompt"
-msgstr ""
+msgstr "Prompt berikutnya"
 
 #: data/resources/ui/shortcuts.ui:515
 msgctxt "shortcut window"
@@ -796,7 +816,7 @@ msgstr "Ganti gaya judul"
 #: data/resources/ui/shortcuts.ui:593
 msgctxt "shortcut window"
 msgid "Monitor silence"
-msgstr ""
+msgstr "Pantau keheningan"
 
 #: data/resources/ui/shortcuts.ui:599
 msgctxt "shortcut window"
@@ -902,7 +922,8 @@ msgstr ""
 "Arrizal Amin\n"
 "Mohamad Hasan Al Banna\n"
 "Andika Triwidada <andika@gmail.com>, 2018.\n"
-"Reza Almanda"
+"Reza Almanda\n"
+"Arif Budiman <arifpedia@gmail.com, 2026."
 
 #: source/gx/tilix/application.d:282
 msgid "Credits"
@@ -1037,7 +1058,7 @@ msgstr "UUID_TERMINAL"
 #: source/gx/tilix/application.d:717
 #, c-format
 msgid "The application ID %s is not valid"
-msgstr ""
+msgstr "ID aplikasi %s tidak valid"
 
 #: source/gx/tilix/application.d:883
 msgid ""
@@ -1188,11 +1209,11 @@ msgstr "Galat Menyimpan Sesi"
 
 #: source/gx/tilix/appwindow.d:1723
 msgid "Quake mode is not supported under Wayland, running as normal window"
-msgstr ""
+msgstr "Mode quake tidak didukung di Wayland, berjalan sebagai jendela normal"
 
 #: source/gx/tilix/appwindow.d:1725
 msgid "Quake Mode Not Supported"
-msgstr ""
+msgstr "Mode Quake Tidak Didukung"
 
 #: source/gx/tilix/appwindow.d:2200
 msgid "New output displayed"
@@ -1433,11 +1454,11 @@ msgstr "Status.Hanya-Baca"
 
 #: source/gx/tilix/constants.d:162
 msgid "Status.Silence"
-msgstr ""
+msgstr "Status.Keheningan"
 
 #: source/gx/tilix/constants.d:163
 msgid "Status.Input-Sync"
-msgstr ""
+msgstr "Status.Sinkronisasi-Masukan"
 
 #: source/gx/tilix/constants.d:178
 msgid "Terminal count"
@@ -1627,7 +1648,7 @@ msgstr "Hapus"
 
 #: source/gx/tilix/prefeditor/advdialog.d:151
 msgid "Move up"
-msgstr ""
+msgstr "Pindah ke atas"
 
 #: source/gx/tilix/prefeditor/advdialog.d:162
 msgid "Move down"
@@ -1786,7 +1807,7 @@ msgstr "Profil: %s"
 #: source/gx/tilix/prefeditor/prefdialog.d:366
 #, c-format
 msgid "Are you sure you want to delete '%s'?"
-msgstr ""
+msgstr "Apakah Anda yakin ingin menghapus '%s'?"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:557
 msgid "Clone"
@@ -2016,7 +2037,7 @@ msgstr "Sembunyikan bilah alat jendela"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1455
 msgid "Keep window always on top"
-msgstr ""
+msgstr "Selalu tampilkan jendela di atas"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1460
 msgid "Display terminal on active monitor"
@@ -2028,7 +2049,7 @@ msgstr "Tampilkan pada monitor tertentu"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1470
 msgid "Primary Monitor"
-msgstr ""
+msgstr "Monitor Utama"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1473
 msgid "Monitor "
@@ -2068,7 +2089,7 @@ msgstr "Tutup jendela ketika sesi terakhir ditutup"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1574
 msgid "Save and restore window state"
-msgstr "Simpan dan pulihkan keadaan jendela"
+msgstr "Simpan dan pulihkan status jendela"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1579
 #, fuzzy
@@ -2114,7 +2135,7 @@ msgstr "Hapus karakter pertama dari tempelan jika komentar/deklarasi variabel"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1623
 msgid "Strip trailing whitespaces and linebreak characters on paste"
-msgstr ""
+msgstr "Hapus spasi dan karakter jeda baris di akhir saat menempel"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1628
 msgid "Automatically copy text to clipboard when selecting"
@@ -2187,7 +2208,7 @@ msgstr "tinggi"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:347
 msgid "Margin"
-msgstr ""
+msgstr "Margin"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:358
 msgid "Text blink mode"
@@ -2216,7 +2237,7 @@ msgstr "Font kustom"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:392
 msgid "Choose A Terminal Font"
-msgstr "Pilih Fonta Terminal"
+msgstr "Pilih Font Terminal"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:401
 #, fuzzy
@@ -2302,7 +2323,7 @@ msgstr "Gunakan tema warna untuk latar depan/latar belakang"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:580
 msgid "Show bold text in bright colors"
-msgstr ""
+msgstr "Tampilkan teks tebal dalam warna cerah"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:592
 msgid "Transparency"
@@ -2530,6 +2551,8 @@ msgid ""
 "A notification can be raised when new activity occurs after a specified "
 "period of silence."
 msgstr ""
+"Notifikasi dapat dimunculkan ketika ada aktivitas baru setelah periode "
+"keheningan tertentu."
 
 #: source/gx/tilix/prefeditor/profileeditor.d:1269
 msgid "Automatic Profile Switching"
@@ -2599,7 +2622,7 @@ msgstr "Ambang batas untuk diam terus menerus"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:1381
 msgid "(seconds)"
-msgstr ""
+msgstr "(detik)"
 
 #: source/gx/tilix/prefeditor/titleeditor.d:105
 #: source/gx/tilix/terminal/terminal.d:348
@@ -2733,6 +2756,7 @@ msgstr ""
 #: source/gx/tilix/terminal/monitor.d:112
 msgid "Process monitoring is not enabled, this should never be called"
 msgstr ""
+"Pemantauan proses tidak diaktifkan, ini seharusnya tidak pernah dipanggil"
 
 #: source/gx/tilix/terminal/password.d:161
 msgid "New"
@@ -2772,7 +2796,7 @@ msgstr "Cari selanjutnya"
 
 #: source/gx/tilix/terminal/search.d:147
 msgid "Find previous"
-msgstr "Cari sebelumnya"
+msgstr "Temukan sebelumnya"
 
 #: source/gx/tilix/terminal/search.d:155
 #, fuzzy
