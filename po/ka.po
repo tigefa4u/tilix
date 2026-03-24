@@ -7,66 +7,68 @@ msgstr ""
 "Project-Id-Version: tilix\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-11-08 21:52+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-03-25 12:09+0000\n"
+"Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
+"Language-Team: Georgian <https://hosted.weblate.org/projects/tilix/"
+"translations/ka/>\n"
 "Language: ka\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.17-dev\n"
 
 #: source/gx/gtk/dialog.d:89 source/gx/tilix/closedialog.d:143
 msgid "Do not show this again"
-msgstr ""
+msgstr "ეს აღარ მაჩვენო"
 
 #: source/gx/gtk/actions.d:25
 msgid "disabled"
-msgstr ""
+msgstr "გამორთულია"
 
 #: source/gx/tilix/sidebar.d:546 source/gx/tilix/terminal/terminal.d:383
 #: source/gx/tilix/terminal/terminal.d:1861
 msgid "Close"
-msgstr ""
+msgstr "დახურვა"
 
 #: source/gx/tilix/closedialog.d:123 source/gx/tilix/constants.d:152
 #: source/gx/tilix/terminal/layout.d:54
 msgid "Title"
-msgstr ""
+msgstr "სათაური"
 
 #: source/gx/tilix/closedialog.d:129
 #: source/gx/tilix/prefeditor/profileeditor.d:447
 #: source/gx/tilix/bookmark/bmtreeview.d:70
 msgid "Icon"
-msgstr ""
+msgstr "ხატულა"
 
 #: source/gx/tilix/closedialog.d:170
 #, c-format
 msgid "Window (%s)"
-msgstr ""
+msgstr "ფანჯარა (%s)"
 
 #: source/gx/tilix/closedialog.d:173
 #, c-format
 msgid "Session (%s)"
-msgstr ""
+msgstr "სესია (%s)"
 
 #: source/gx/tilix/closedialog.d:189
 msgid "Close Application"
-msgstr ""
+msgstr "აპლიკაციის დახურვა"
 
 #: source/gx/tilix/closedialog.d:191
 msgid "Close Window"
-msgstr ""
+msgstr "ფანჯრის დახურვა"
 
 #: source/gx/tilix/closedialog.d:193 source/gx/tilix/closedialog.d:195
 msgid "Close Session"
-msgstr ""
+msgstr "სესიის დახურვა"
 
 #: source/gx/tilix/closedialog.d:202 source/gx/tilix/bookmark/bmeditor.d:151
 #: source/gx/tilix/bookmark/bmchooser.d:127
 #: source/gx/tilix/terminal/layout.d:33 source/gx/tilix/terminal/password.d:493
 msgid "OK"
-msgstr ""
+msgstr "დიახ"
 
 #: source/gx/tilix/closedialog.d:202 source/gx/tilix/prefeditor/advdialog.d:192
 #: source/gx/tilix/prefeditor/advdialog.d:362
@@ -79,12 +81,12 @@ msgstr ""
 #: source/gx/tilix/terminal/advpaste.d:137
 #: source/gx/tilix/terminal/terminal.d:3665
 msgid "Cancel"
-msgstr ""
+msgstr "გაუქმება"
 
 #: source/gx/tilix/prefeditor/advdialog.d:94
 #: source/gx/tilix/prefeditor/advdialog.d:261
 msgid "Regex"
-msgstr ""
+msgstr "რეგექსი"
 
 #: source/gx/tilix/prefeditor/advdialog.d:106
 #: source/gx/tilix/prefeditor/profileeditor.d:98
@@ -93,17 +95,17 @@ msgstr ""
 #: source/gx/tilix/bookmark/bmeditor.d:428
 #: source/gx/tilix/bookmark/manager.d:687 source/gx/tilix/terminal/layout.d:89
 msgid "Command"
-msgstr ""
+msgstr "ბრძანება"
 
 #: source/gx/tilix/prefeditor/advdialog.d:118
 msgid "Case Insensitive"
-msgstr ""
+msgstr "დიდი და პატარა ასოების იგნორი"
 
 #: source/gx/tilix/prefeditor/advdialog.d:134
 #: source/gx/tilix/prefeditor/advdialog.d:313
 #: source/gx/tilix/prefeditor/profileeditor.d:1303
 msgid "Add"
-msgstr ""
+msgstr "დამატება"
 
 #: source/gx/tilix/prefeditor/advdialog.d:141
 #: source/gx/tilix/prefeditor/advdialog.d:319
@@ -111,15 +113,15 @@ msgstr ""
 #: source/gx/tilix/prefeditor/prefdialog.d:556
 #: source/gx/tilix/terminal/password.d:213
 msgid "Delete"
-msgstr ""
+msgstr "წაშლა"
 
 #: source/gx/tilix/prefeditor/advdialog.d:151
 msgid "Move up"
-msgstr ""
+msgstr "აწევა"
 
 #: source/gx/tilix/prefeditor/advdialog.d:162
 msgid "Move down"
-msgstr ""
+msgstr "ჩამოწევა"
 
 #: source/gx/tilix/prefeditor/advdialog.d:192
 msgid "Edit Custom Links"
@@ -129,16 +131,16 @@ msgstr ""
 #: source/gx/tilix/prefeditor/advdialog.d:362
 #: source/gx/tilix/terminal/password.d:371
 msgid "Apply"
-msgstr ""
+msgstr "გადატარება"
 
 #: source/gx/tilix/prefeditor/advdialog.d:287
 #: source/gx/tilix/prefeditor/prefdialog.d:765
 msgid "Action"
-msgstr ""
+msgstr "ქმედება"
 
 #: source/gx/tilix/prefeditor/advdialog.d:299
 msgid "Parameter"
-msgstr ""
+msgstr "პარამეტრი"
 
 #: source/gx/tilix/prefeditor/advdialog.d:337
 msgid "Limit number of lines for trigger processing to:"
@@ -151,11 +153,11 @@ msgstr ""
 #: source/gx/tilix/prefeditor/advdialog.d:405
 #, c-format
 msgid "Row %d: "
-msgstr ""
+msgstr "მწკრივი %d: "
 
 #: source/gx/tilix/prefeditor/common.d:37
 msgid "Custom Links"
-msgstr ""
+msgstr "მორგებული ბმულები"
 
 #: source/gx/tilix/prefeditor/common.d:43
 msgid ""
@@ -168,11 +170,11 @@ msgstr ""
 #: source/gx/tilix/prefeditor/profileeditor.d:1321
 #: source/gx/tilix/terminal/password.d:184
 msgid "Edit"
-msgstr ""
+msgstr "ჩასწორება"
 
 #: source/gx/tilix/prefeditor/common.d:67
 msgid "Triggers"
-msgstr ""
+msgstr "ტრიგერები"
 
 #: source/gx/tilix/prefeditor/common.d:74
 msgid ""
@@ -182,19 +184,19 @@ msgstr ""
 
 #: source/gx/tilix/prefeditor/profileeditor.d:97
 msgid "General"
-msgstr ""
+msgstr "ზოგადი"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:99
 msgid "Color"
-msgstr ""
+msgstr "ფერი"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:100
 msgid "Scrolling"
-msgstr ""
+msgstr "აჩოჩება"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:101
 msgid "Compatibility"
-msgstr ""
+msgstr "თავსებადობა"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:103
 #: source/gx/tilix/prefeditor/profileeditor.d:693
@@ -208,82 +210,82 @@ msgstr ""
 #: source/gx/tilix/prefeditor/prefdialog.d:170
 #: source/gx/tilix/prefeditor/prefdialog.d:171
 msgid "Advanced"
-msgstr ""
+msgstr "დამატებით"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:217
 msgid "Profile name"
-msgstr ""
+msgstr "პროფილის სახელი"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:241
 msgid "Terminal title"
-msgstr ""
+msgstr "ტერმინალის სათაური"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:254
 msgid "Text Appearance"
-msgstr ""
+msgstr "ტექსტის გარეგნობა"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:262
 msgid "Terminal size"
-msgstr ""
+msgstr "ტერმინალის ზომა"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:272
 msgid "columns"
-msgstr ""
+msgstr "სვეტები"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:281
 msgid "rows"
-msgstr ""
+msgstr "მწკრივები"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:289
 #: source/gx/tilix/prefeditor/profileeditor.d:328
 #: source/gx/tilix/terminal/terminal.d:853
 msgid "Reset"
-msgstr ""
+msgstr "ჩამოყრა"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:301
 msgid "Cell spacing"
-msgstr ""
+msgstr "უჯრედების დაშორება"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:311
 msgid "width"
-msgstr ""
+msgstr "სიგანე"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:320
 msgid "height"
-msgstr ""
+msgstr "სიმაღლე"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:347
 msgid "Margin"
-msgstr ""
+msgstr "ზღვარი"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:358
 msgid "Text blink mode"
-msgstr ""
+msgstr "ტექსტის ციმციმის რეჟიმი"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:361
 msgid "Never"
-msgstr ""
+msgstr "არასდროს"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:361
 msgid "Focused"
-msgstr ""
+msgstr "მონიშნული"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:361
 msgid "Unfocused"
-msgstr ""
+msgstr "ფოკუსის მოხსნისას"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:361
 msgid "Always"
-msgstr ""
+msgstr "ყოველთვის"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:380
 #: source/gx/tilix/prefeditor/profileeditor.d:1199
 msgid "Custom font"
-msgstr ""
+msgstr "ხელით მითითებული ფონტი"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:392
 msgid "Choose A Terminal Font"
-msgstr ""
+msgstr "არჩიეთ ტერმინალის ფონტი"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:401
 msgid "Word-wise select chars"
@@ -293,19 +295,19 @@ msgstr ""
 #: source/gx/tilix/prefeditor/profileeditor.d:417
 #: source/gx/tilix/prefeditor/profileeditor.d:659
 msgid "Cursor"
-msgstr ""
+msgstr "კურსორი"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:420
 msgid "Block"
-msgstr ""
+msgstr "ბლოკი"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:420
 msgid "IBeam"
-msgstr ""
+msgstr "IBeam"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:420
 msgid "Underline"
-msgstr ""
+msgstr "ხაზგასმული"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:428
 msgid "Cursor blink mode"
@@ -313,33 +315,33 @@ msgstr ""
 
 #: source/gx/tilix/prefeditor/profileeditor.d:431
 msgid "System"
-msgstr ""
+msgstr "სისტემა"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:431
 msgid "On"
-msgstr ""
+msgstr "ჩართული"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:431
 msgid "Off"
-msgstr ""
+msgstr "გამორთ"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:436
 msgid "Notification"
-msgstr ""
+msgstr "შეტყობინება"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:444
 #: source/gx/tilix/terminal/terminal.d:422
 msgid "Terminal bell"
-msgstr ""
+msgstr "ტერმინალის ზარი"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:447
 #: source/gx/tilix/prefeditor/prefdialog.d:1188
 msgid "None"
-msgstr ""
+msgstr "არაფერი"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:447
 msgid "Sound"
-msgstr ""
+msgstr "ხმა"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:447
 msgid "Icon and sound"
@@ -348,29 +350,29 @@ msgstr ""
 #: source/gx/tilix/prefeditor/profileeditor.d:465
 #, c-format
 msgid "ID: %s"
-msgstr ""
+msgstr "ID: %s"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:513
 msgid "Color scheme"
-msgstr ""
+msgstr "ფერების სქემა"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:523
 #: source/gx/tilix/prefeditor/profileeditor.d:988
 msgid "Custom"
-msgstr ""
+msgstr "ხელით"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:536
 msgid "Export"
-msgstr ""
+msgstr "გატანა"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:548
 msgid "Color palette"
-msgstr ""
+msgstr "ფერების პალიტრა"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:556
 #: source/gx/tilix/prefeditor/prefdialog.d:1403
 msgid "Options"
-msgstr ""
+msgstr "მორგება"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:570
 msgid "Use theme colors for foreground/background"
@@ -382,7 +384,7 @@ msgstr ""
 
 #: source/gx/tilix/prefeditor/profileeditor.d:592
 msgid "Transparency"
-msgstr ""
+msgstr "გამჭვირვალობა"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:606
 msgid "Unfocused dim"
@@ -390,12 +392,12 @@ msgstr ""
 
 #: source/gx/tilix/prefeditor/profileeditor.d:654
 msgid "Text"
-msgstr ""
+msgstr "ტექსტი"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:655
 #: source/gx/tilix/prefeditor/profileeditor.d:757
 msgid "Background"
-msgstr ""
+msgstr "ფონი"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:664
 msgid "Select Cursor Foreground Color"
@@ -407,7 +409,7 @@ msgstr ""
 
 #: source/gx/tilix/prefeditor/profileeditor.d:671
 msgid "Highlight"
-msgstr ""
+msgstr "გამოკვეთა"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:676
 msgid "Select Highlight Foreground Color"
@@ -419,11 +421,11 @@ msgstr ""
 
 #: source/gx/tilix/prefeditor/profileeditor.d:683
 msgid "Bold"
-msgstr ""
+msgstr "სქელი"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:688
 msgid "Select Bold Color"
-msgstr ""
+msgstr "აირჩიეთ სქელი ფერი"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:697
 msgid "Select Badge Color"
@@ -431,48 +433,48 @@ msgstr ""
 
 #: source/gx/tilix/prefeditor/profileeditor.d:746
 msgid "Select Background Color"
-msgstr ""
+msgstr "აირჩიეთ ფონის ფერი"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:762
 #: source/gx/tilix/prefeditor/profileeditor.d:778
 msgid "Select Foreground Color"
-msgstr ""
+msgstr "აირჩიეთ წინა პლანის ფერი"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:777
 msgid "Foreground"
-msgstr ""
+msgstr "წინა პლანი"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:781
 msgid "Black"
-msgstr ""
+msgstr "შავი"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:781
 msgid "Red"
-msgstr ""
+msgstr "წითელი"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:781
 msgid "Green"
-msgstr ""
+msgstr "მწვანე"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:781
 msgid "Orange"
-msgstr ""
+msgstr "ნარინჯისფერი"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:781
 msgid "Blue"
-msgstr ""
+msgstr "ლურჯი"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:781
 msgid "Purple"
-msgstr ""
+msgstr "იისფერი"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:781
 msgid "Turquoise"
-msgstr ""
+msgstr "ფირუზისფერი"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:781
 msgid "Grey"
-msgstr ""
+msgstr "ნაცრისფერი"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:787
 #, c-format
@@ -492,26 +494,26 @@ msgstr ""
 #: source/gx/tilix/appwindow.d:690 source/gx/tilix/appwindow.d:1558
 #: source/gx/tilix/terminal/terminal.d:3665
 msgid "Save"
-msgstr ""
+msgstr "შენახვა"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:961
 #: source/gx/tilix/appwindow.d:1461
 msgid "All JSON Files"
-msgstr ""
+msgstr "ყველა JSON ფაილი"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:965
 #: source/gx/tilix/prefeditor/prefdialog.d:1219
 #: source/gx/tilix/appwindow.d:1465 source/gx/tilix/terminal/terminal.d:3675
 msgid "All Files"
-msgstr ""
+msgstr "ყველა ფაილი"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:1022
 msgid "Show scrollbar"
-msgstr ""
+msgstr "ჩოჩიის ჩვენება"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:1026
 msgid "Scroll on output"
-msgstr ""
+msgstr "გამოტანისას აჩოჩება"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:1030
 msgid "Scroll on keystroke"
@@ -528,27 +530,27 @@ msgstr ""
 #: source/gx/tilix/prefeditor/profileeditor.d:1072
 #: source/gx/tilix/prefeditor/profileeditor.d:1081
 msgid "Automatic"
-msgstr ""
+msgstr "ავტომატური"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:1072
 #: source/gx/tilix/prefeditor/profileeditor.d:1081
 msgid "Control-H"
-msgstr ""
+msgstr "Control-H"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:1072
 #: source/gx/tilix/prefeditor/profileeditor.d:1081
 msgid "ASCII DEL"
-msgstr ""
+msgstr "ASCII DEL"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:1072
 #: source/gx/tilix/prefeditor/profileeditor.d:1081
 msgid "Escape sequence"
-msgstr ""
+msgstr "გადატანის არასწორი მიმდევრობა"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:1072
 #: source/gx/tilix/prefeditor/profileeditor.d:1081
 msgid "TTY"
-msgstr ""
+msgstr "TTY"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:1078
 msgid "Delete key generates"
@@ -561,7 +563,7 @@ msgstr ""
 #: source/gx/tilix/prefeditor/prefdialog.d:681
 #: source/gx/tilix/terminal/terminal.d:858
 msgid "Encoding"
-msgstr ""
+msgstr "კოდირება"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:1102
 msgid "Ambiguous-width characters"
@@ -569,11 +571,11 @@ msgstr ""
 
 #: source/gx/tilix/prefeditor/profileeditor.d:1105
 msgid "Narrow"
-msgstr ""
+msgstr "ვიწრო"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:1105
 msgid "Wide"
-msgstr ""
+msgstr "ფართო"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:1126
 msgid "Run command as a login shell"
@@ -585,19 +587,19 @@ msgstr ""
 
 #: source/gx/tilix/prefeditor/profileeditor.d:1147
 msgid "When command exits"
-msgstr ""
+msgstr "როცა ბრძანება გამოვა"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:1149
 msgid "Exit the terminal"
-msgstr ""
+msgstr "ტერმინალიდან გასვლა"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:1149
 msgid "Restart the command"
-msgstr ""
+msgstr "ბრძანების თავიდან გაშვება"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:1149
 msgid "Hold the terminal open"
-msgstr ""
+msgstr "ტერმინალის გახსნილად დატოვება"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:1189
 msgid "Badge position"
@@ -605,19 +607,19 @@ msgstr ""
 
 #: source/gx/tilix/prefeditor/profileeditor.d:1193
 msgid "Northwest"
-msgstr ""
+msgstr "ჩრდილოდასავლეთი"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:1193
 msgid "Northeast"
-msgstr ""
+msgstr "ჩრდილოაღმოსავლეთი"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:1193
 msgid "Southwest"
-msgstr ""
+msgstr "სამხრეთდასავლეთი"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:1193
 msgid "Southeast"
-msgstr ""
+msgstr "სამხრეთაღმოსავლეთი"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:1211
 msgid "Choose A Badge Font"
@@ -655,7 +657,7 @@ msgstr ""
 
 #: source/gx/tilix/prefeditor/profileeditor.d:1292
 msgid "Match"
-msgstr ""
+msgstr "დამთხვევა"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:1307
 msgid "Enter username@hostname:directory to match"
@@ -679,11 +681,11 @@ msgstr ""
 
 #: source/gx/tilix/prefeditor/profileeditor.d:1332
 msgid "Edit Match"
-msgstr ""
+msgstr "დამთხვევის ჩასწორება"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:1363
 msgid "Enable by default"
-msgstr ""
+msgstr "ნაგულისხმევად ჩართვა"
 
 #: source/gx/tilix/prefeditor/profileeditor.d:1372
 msgid "Threshold for continuous silence"
@@ -691,41 +693,41 @@ msgstr ""
 
 #: source/gx/tilix/prefeditor/profileeditor.d:1381
 msgid "(seconds)"
-msgstr ""
+msgstr "(წამი)"
 
 #: source/gx/tilix/prefeditor/titleeditor.d:105
 #: source/gx/tilix/terminal/terminal.d:348
 #: source/gx/tilix/terminal/terminal.d:1309
 msgid "Terminal"
-msgstr ""
+msgstr "ტერმინალი"
 
 #: source/gx/tilix/prefeditor/titleeditor.d:110
 msgid "Session"
-msgstr ""
+msgstr "სესია"
 
 #: source/gx/tilix/prefeditor/titleeditor.d:116
 msgid "Window"
-msgstr ""
+msgstr "ფანჯარა"
 
 #: source/gx/tilix/prefeditor/titleeditor.d:126
 #: source/gx/tilix/prefeditor/titleeditor.d:127
 msgid "Help"
-msgstr ""
+msgstr "დახმარება"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:123
 msgid "Tilix Preferences"
-msgstr ""
+msgstr "Tilix-ის მორგება"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:140
 #: source/gx/tilix/prefeditor/prefdialog.d:141
 #: source/gx/tilix/prefeditor/prefdialog.d:219
 msgid "Global"
-msgstr ""
+msgstr "გლობალური"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:144
 #: source/gx/tilix/prefeditor/prefdialog.d:145
 msgid "Appearance"
-msgstr ""
+msgstr "გარეგნობა"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:150
 #: source/gx/tilix/prefeditor/prefdialog.d:151
@@ -735,51 +737,51 @@ msgstr ""
 #: source/gx/tilix/prefeditor/prefdialog.d:155
 #: source/gx/tilix/prefeditor/prefdialog.d:156
 msgid "Bookmarks"
-msgstr ""
+msgstr "სანიშნეები"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:162
 #: source/gx/tilix/prefeditor/prefdialog.d:163
 #: source/gx/tilix/prefeditor/prefdialog.d:299
 msgid "Shortcuts"
-msgstr ""
+msgstr "მალსახმობები"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:176 source/gx/tilix/session.d:1583
 msgid "Profile"
-msgstr ""
+msgstr "პროფილი"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:189
 msgid "Add profile"
-msgstr ""
+msgstr "პროფილის დამატება"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:194
 msgid "Delete profile"
-msgstr ""
+msgstr "პროფილის წაშლა"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:263
 #: source/gx/tilix/prefeditor/prefdialog.d:414 source/gx/tilix/appwindow.d:702
 #: data/pkg/desktop/com.gexperts.Tilix.desktop.in:25
 msgid "Preferences"
-msgstr ""
+msgstr "მორგება"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:283
 #: source/gx/tilix/terminal/terminal.d:842
 msgid "Profiles"
-msgstr ""
+msgstr "პროფილები"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:312
 #: source/gx/tilix/prefeditor/prefdialog.d:320
 #, c-format
 msgid "Profile: %s"
-msgstr ""
+msgstr "პროფილი: %s"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:366
 #, c-format
 msgid "Are you sure you want to delete '%s'?"
-msgstr ""
+msgstr "დარწმუნებული ბრძანდებით, რომ გნებავთ '%s'-ის წაშლა?"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:557
 msgid "Clone"
-msgstr ""
+msgstr "კლონი"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:561
 msgid "Use for new terminals"
@@ -791,7 +793,7 @@ msgstr ""
 
 #: source/gx/tilix/prefeditor/prefdialog.d:679
 msgid "Enabled"
-msgstr ""
+msgstr "ჩართულია"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:789
 msgid "Shortcut Key"
@@ -823,7 +825,7 @@ msgstr ""
 #: source/gx/tilix/prefeditor/prefdialog.d:1174
 #: source/gx/tilix/prefeditor/prefdialog.d:1188
 msgid "Normal"
-msgstr ""
+msgstr "ნორმალური"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1174
 msgid "Disable CSD"
@@ -835,7 +837,7 @@ msgstr ""
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1174
 msgid "Borderless"
-msgstr ""
+msgstr "საზღვრების გარეშე"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1178
 msgid "Window restart required"
@@ -847,65 +849,65 @@ msgstr ""
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1188
 msgid "Small"
-msgstr ""
+msgstr "პატარა"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1193
 #: source/gx/tilix/prefeditor/prefdialog.d:1387
 msgid "Tab position"
-msgstr ""
+msgstr "ჩანართის მდებარეობა"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1194
 #: source/gx/tilix/prefeditor/prefdialog.d:1381
 #: source/gx/tilix/prefeditor/prefdialog.d:1388
 msgid "Left"
-msgstr ""
+msgstr "მარცხენა"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1194
 #: source/gx/tilix/prefeditor/prefdialog.d:1381
 #: source/gx/tilix/prefeditor/prefdialog.d:1388
 msgid "Right"
-msgstr ""
+msgstr "მარჯვენა"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1194
 #: source/gx/tilix/prefeditor/prefdialog.d:1388
 #: source/gx/tilix/prefeditor/prefdialog.d:1395
 msgid "Top"
-msgstr ""
+msgstr "ზედა"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1194
 #: source/gx/tilix/prefeditor/prefdialog.d:1388
 #: source/gx/tilix/prefeditor/prefdialog.d:1395
 msgid "Bottom"
-msgstr ""
+msgstr "ქვემო"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1200
 msgid "Theme variant"
-msgstr ""
+msgstr "თემის ვარიანტი"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1201
 #: source/gx/tilix/appwindow.d:1088 source/gx/tilix/session.d:1222
 msgid "Default"
-msgstr ""
+msgstr "ნაგულისხმევი"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1201
 msgid "Light"
-msgstr ""
+msgstr "ღია"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1201
 msgid "Dark"
-msgstr ""
+msgstr "მუქი"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1207
 msgid "Background image"
-msgstr ""
+msgstr "ფონის გრაფიკული გამოსახულება"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1209
 msgid "Select Image"
-msgstr ""
+msgstr "აირჩიეთ გამოსახულება"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1212
 msgid "All Image Files"
-msgstr ""
+msgstr "ყველა გამოსახულების ფაილი"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1233
 msgid "Reset background image"
@@ -913,20 +915,20 @@ msgstr ""
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1239
 msgid "Scale"
-msgstr ""
+msgstr "მასშტაბი"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1239
 msgid "Tile"
-msgstr ""
+msgstr "ფილა"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1239
 #: source/gx/tilix/prefeditor/prefdialog.d:1381
 msgid "Center"
-msgstr ""
+msgstr "ცენტრი"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1239
 msgid "Stretch"
-msgstr ""
+msgstr "გაწელვა"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1258
 msgid "Default session name"
@@ -934,7 +936,7 @@ msgstr ""
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1273
 msgid "Application title"
-msgstr ""
+msgstr "აპლიკაციის სათაური"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1291
 msgid "Enable transparency, requires re-start"
@@ -962,23 +964,23 @@ msgstr ""
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1348
 msgid "Size"
-msgstr ""
+msgstr "ზომა"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1359
 msgid "Height percent"
-msgstr ""
+msgstr "სიმაღლის პროცენტი"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1370
 msgid "Width percent"
-msgstr ""
+msgstr "სიგანის პროცენტი"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1380
 msgid "Alignment"
-msgstr ""
+msgstr "სწორება"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1394
 msgid "Window position"
-msgstr ""
+msgstr "ფანჯრის მდებარეობა"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1411
 msgid "Show terminal on all workspaces"
@@ -1010,15 +1012,15 @@ msgstr ""
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1470
 msgid "Primary Monitor"
-msgstr ""
+msgstr "ძირითადი ეკრანი"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1473
 msgid "Monitor "
-msgstr ""
+msgstr "ეკრანი "
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1533
 msgid "Behavior"
-msgstr ""
+msgstr "ქცევა"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1539
 msgid "Prompt when creating a new session"
@@ -1067,29 +1069,29 @@ msgstr ""
 #: source/gx/tilix/prefeditor/prefdialog.d:1596 source/gx/tilix/appwindow.d:685
 #: data/pkg/desktop/com.gexperts.Tilix.desktop.in:17
 msgid "New Window"
-msgstr ""
+msgstr "ახალი ფანჯარა"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1596 source/gx/tilix/session.d:1606
 #: data/pkg/desktop/com.gexperts.Tilix.desktop.in:21
 msgid "New Session"
-msgstr ""
+msgstr "ახალი სესია"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1596
 msgid "Split Right"
-msgstr ""
+msgstr "გაყოფა მარცხნივ"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1596
 msgid "Split Down"
-msgstr ""
+msgstr "გაყოფა ქვემოთ"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1596
 msgid "Focus Window"
-msgstr ""
+msgstr "ფანჯრის ფოკუსი"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1602
 #: source/gx/tilix/terminal/terminal.d:1851
 msgid "Clipboard"
-msgstr ""
+msgstr "გაცვლის ბუფერი"
 
 #: source/gx/tilix/prefeditor/prefdialog.d:1608
 msgid "Always use advanced paste dialog"
@@ -1113,15 +1115,15 @@ msgstr ""
 
 #: source/gx/tilix/prefeditor/bookmarkeditor.d:62
 msgid "Add bookmark"
-msgstr ""
+msgstr "სანიშნეს დამატება"
 
 #: source/gx/tilix/prefeditor/bookmarkeditor.d:67
 msgid "Edit bookmark"
-msgstr ""
+msgstr "სანიშნის რედაქტირება"
 
 #: source/gx/tilix/prefeditor/bookmarkeditor.d:72
 msgid "Delete bookmark"
-msgstr ""
+msgstr "სანიშნის წაშლა"
 
 #: source/gx/tilix/prefeditor/bookmarkeditor.d:77
 msgid "Unselect bookmark"
@@ -1131,151 +1133,151 @@ msgstr ""
 #: source/gx/tilix/encoding.d:45 source/gx/tilix/encoding.d:67
 #: source/gx/tilix/encoding.d:78
 msgid "Western"
-msgstr ""
+msgstr "დასავლური"
 
 #: source/gx/tilix/encoding.d:19 source/gx/tilix/encoding.d:46
 #: source/gx/tilix/encoding.d:57 source/gx/tilix/encoding.d:76
 msgid "Central European"
-msgstr ""
+msgstr "ცენტრალურ ევროპული"
 
 #: source/gx/tilix/encoding.d:20
 msgid "South European"
-msgstr ""
+msgstr "სამხრეთ ევროპული"
 
 #: source/gx/tilix/encoding.d:21 source/gx/tilix/encoding.d:29
 #: source/gx/tilix/encoding.d:83
 msgid "Baltic"
-msgstr ""
+msgstr "ბალტიური"
 
 #: source/gx/tilix/encoding.d:22 source/gx/tilix/encoding.d:47
 #: source/gx/tilix/encoding.d:53 source/gx/tilix/encoding.d:54
 #: source/gx/tilix/encoding.d:59 source/gx/tilix/encoding.d:77
 msgid "Cyrillic"
-msgstr ""
+msgstr "კირილიცა"
 
 #: source/gx/tilix/encoding.d:23 source/gx/tilix/encoding.d:50
 #: source/gx/tilix/encoding.d:56 source/gx/tilix/encoding.d:82
 msgid "Arabic"
-msgstr ""
+msgstr "არაბული"
 
 #: source/gx/tilix/encoding.d:24 source/gx/tilix/encoding.d:62
 #: source/gx/tilix/encoding.d:79
 msgid "Greek"
-msgstr ""
+msgstr "ბერძნული"
 
 #: source/gx/tilix/encoding.d:25
 msgid "Hebrew Visual"
-msgstr ""
+msgstr "ივრითი ვიზუალი"
 
 #: source/gx/tilix/encoding.d:26 source/gx/tilix/encoding.d:49
 #: source/gx/tilix/encoding.d:65 source/gx/tilix/encoding.d:81
 msgid "Hebrew"
-msgstr ""
+msgstr "ივრითი"
 
 #: source/gx/tilix/encoding.d:27 source/gx/tilix/encoding.d:48
 #: source/gx/tilix/encoding.d:69 source/gx/tilix/encoding.d:80
 msgid "Turkish"
-msgstr ""
+msgstr "თურქული"
 
 #: source/gx/tilix/encoding.d:28
 msgid "Nordic"
-msgstr ""
+msgstr "სკანდინავიური"
 
 #: source/gx/tilix/encoding.d:30
 msgid "Celtic"
-msgstr ""
+msgstr "კელტური"
 
 #: source/gx/tilix/encoding.d:32 source/gx/tilix/encoding.d:68
 msgid "Romanian"
-msgstr ""
+msgstr "რუმინული"
 
 #: source/gx/tilix/encoding.d:33
 msgid "Unicode"
-msgstr ""
+msgstr "უნიკოდი"
 
 #: source/gx/tilix/encoding.d:34
 msgid "Armenian"
-msgstr ""
+msgstr "სომხური"
 
 #: source/gx/tilix/encoding.d:35 source/gx/tilix/encoding.d:36
 #: source/gx/tilix/encoding.d:40
 msgid "Chinese Traditional"
-msgstr ""
+msgstr "ჩინური ტრადიციული"
 
 #: source/gx/tilix/encoding.d:37
 msgid "Cyrillic/Russian"
-msgstr ""
+msgstr "კირილიცა/რუსული"
 
 #: source/gx/tilix/encoding.d:38 source/gx/tilix/encoding.d:51
 #: source/gx/tilix/encoding.d:71
 msgid "Japanese"
-msgstr ""
+msgstr "იაპონური"
 
 #: source/gx/tilix/encoding.d:39 source/gx/tilix/encoding.d:52
 #: source/gx/tilix/encoding.d:74
 msgid "Korean"
-msgstr ""
+msgstr "კორეული"
 
 #: source/gx/tilix/encoding.d:41 source/gx/tilix/encoding.d:42
 #: source/gx/tilix/encoding.d:43
 msgid "Chinese Simplified"
-msgstr ""
+msgstr "ჩინური გამარტივებული"
 
 #: source/gx/tilix/encoding.d:44
 msgid "Georgian"
-msgstr ""
+msgstr "ქართული"
 
 #: source/gx/tilix/encoding.d:55 source/gx/tilix/encoding.d:70
 msgid "Cyrillic/Ukrainian"
-msgstr ""
+msgstr "კირილიცა/უკრაინული"
 
 #: source/gx/tilix/encoding.d:58
 msgid "Croatian"
-msgstr ""
+msgstr "ხორვატული"
 
 #: source/gx/tilix/encoding.d:60
 msgid "Hindi"
-msgstr ""
+msgstr "ინდური"
 
 #: source/gx/tilix/encoding.d:61
 msgid "Persian"
-msgstr ""
+msgstr "სპარსული"
 
 #: source/gx/tilix/encoding.d:63
 msgid "Gujarati"
-msgstr ""
+msgstr "გუჯარათული"
 
 #: source/gx/tilix/encoding.d:64
 msgid "Gurmukhi"
-msgstr ""
+msgstr "გურმუხული"
 
 #: source/gx/tilix/encoding.d:66
 msgid "Icelandic"
-msgstr ""
+msgstr "ისლანდიური"
 
 #: source/gx/tilix/encoding.d:72 source/gx/tilix/encoding.d:75
 #: source/gx/tilix/encoding.d:84
 msgid "Vietnamese"
-msgstr ""
+msgstr "ვიეტნამური"
 
 #: source/gx/tilix/encoding.d:73
 msgid "Thai"
-msgstr ""
+msgstr "ტაილანდური"
 
 #. TRANSLATORS: Please add your name to the list of translators if you want to be credited for the translations you have done.
 #: source/gx/tilix/application.d:273
 msgid "translator-credits"
-msgstr ""
+msgstr "ეკატერინე პაპავა"
 
 #: source/gx/tilix/application.d:282
 msgid "Credits"
-msgstr ""
+msgstr "კრედიტები"
 
 #: source/gx/tilix/application.d:321 source/gx/tilix/appwindow.d:1694
 #: data/pkg/desktop/com.gexperts.Tilix.desktop.in:4
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:4
 msgid "Tilix"
-msgstr ""
+msgstr "Tilix"
 
 #: source/gx/tilix/application.d:679
 msgid "Set the working directory of the terminal"
@@ -1283,7 +1285,7 @@ msgstr ""
 
 #: source/gx/tilix/application.d:679
 msgid "DIRECTORY"
-msgstr ""
+msgstr "საქაღალდე"
 
 #: source/gx/tilix/application.d:680
 msgid "Set the starting profile"
@@ -1299,7 +1301,7 @@ msgstr ""
 
 #: source/gx/tilix/application.d:681
 msgid "TITLE"
-msgstr ""
+msgstr "სათაური"
 
 #: source/gx/tilix/application.d:682
 msgid "Open the specified session"
@@ -1307,7 +1309,7 @@ msgstr ""
 
 #: source/gx/tilix/application.d:682
 msgid "SESSION_NAME"
-msgstr ""
+msgstr "SESSION_NAME"
 
 #: source/gx/tilix/application.d:684
 msgid "Send an action to current Tilix instance"
@@ -1323,7 +1325,7 @@ msgstr ""
 
 #: source/gx/tilix/application.d:686
 msgid "COMMAND"
-msgstr ""
+msgstr "ბრძანება"
 
 #: source/gx/tilix/application.d:687
 msgid "Maximize the terminal window"
@@ -1358,11 +1360,11 @@ msgstr ""
 #: source/gx/tilix/application.d:693
 msgid ""
 "Set the window size; for example: 80x24, or 80x24+200+200 (COLSxROWS+X+Y)"
-msgstr ""
+msgstr "ფანჯრის ზომის დაყენება; მაგ: 80x24, or 80x24+200+200 (COLSxROWS+X+Y)"
 
 #: source/gx/tilix/application.d:693
 msgid "GEOMETRY"
-msgstr ""
+msgstr "გეომეტრია"
 
 #: source/gx/tilix/application.d:694
 msgid ""
@@ -1413,7 +1415,7 @@ msgstr ""
 
 #: source/gx/tilix/application.d:896
 msgid "Do not show this message again"
-msgstr ""
+msgstr "აღარ მაჩვენო ეს შეტყობინება"
 
 #: source/gx/tilix/colorschemes.d:188
 #, c-format
@@ -1454,15 +1456,15 @@ msgstr ""
 
 #: source/gx/tilix/appwindow.d:689
 msgid "Open…"
-msgstr ""
+msgstr "გახსნა…"
 
 #: source/gx/tilix/appwindow.d:691
 msgid "Save As…"
-msgstr ""
+msgstr "შენახვა, როგორც…"
 
 #: source/gx/tilix/appwindow.d:697
 msgid "Name…"
-msgstr ""
+msgstr "სახელი…"
 
 #: source/gx/tilix/appwindow.d:698
 msgid "Synchronize Input"
@@ -1470,15 +1472,15 @@ msgstr ""
 
 #: source/gx/tilix/appwindow.d:703
 msgid "Keyboard Shortcuts"
-msgstr ""
+msgstr "კლავიატურის მალსახმობები"
 
 #: source/gx/tilix/appwindow.d:704
 msgid "About Tilix"
-msgstr ""
+msgstr "Tilix-ის შესახებ"
 
 #: source/gx/tilix/appwindow.d:711
 msgid "GC"
-msgstr ""
+msgstr "GC"
 
 #: source/gx/tilix/appwindow.d:1197
 msgid "There are multiple sessions open, close anyway?"
@@ -1491,11 +1493,11 @@ msgstr ""
 
 #: source/gx/tilix/appwindow.d:1506
 msgid "Load Session"
-msgstr ""
+msgstr "სესიის ჩატვირთვა"
 
 #: source/gx/tilix/appwindow.d:1509
 msgid "Open"
-msgstr ""
+msgstr "გახსნა"
 
 #: source/gx/tilix/appwindow.d:1532
 msgid "Could not load session due to unexpected error."
@@ -1503,11 +1505,11 @@ msgstr ""
 
 #: source/gx/tilix/appwindow.d:1532
 msgid "Error Loading Session"
-msgstr ""
+msgstr "სესიის ჩატვირთვის შეცდომა"
 
 #: source/gx/tilix/appwindow.d:1555
 msgid "Save Session"
-msgstr ""
+msgstr "სესიის შენახვა"
 
 #: source/gx/tilix/appwindow.d:1590 source/gx/tilix/appwindow.d:1609
 msgid "Could not save session due to unexpected error."
@@ -1531,7 +1533,7 @@ msgstr ""
 
 #: source/gx/tilix/appwindow.d:2208
 msgid "Close session"
-msgstr ""
+msgstr "სესიის დახურვა"
 
 #: source/gx/tilix/constants.d:72
 msgid "A VTE based terminal emulator for Linux"
@@ -1562,31 +1564,31 @@ msgstr ""
 
 #: source/gx/tilix/constants.d:154 source/gx/tilix/terminal/password.d:140
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: source/gx/tilix/constants.d:155
 msgid "Directory"
-msgstr ""
+msgstr "საქაღალდე"
 
 #: source/gx/tilix/constants.d:156
 msgid "Hostname"
-msgstr ""
+msgstr "ჰოსტის სახელი"
 
 #: source/gx/tilix/constants.d:157
 msgid "Username"
-msgstr ""
+msgstr "მომხმარებლის სახელი"
 
 #: source/gx/tilix/constants.d:158
 msgid "Columns"
-msgstr ""
+msgstr "სვეტები"
 
 #: source/gx/tilix/constants.d:159
 msgid "Rows"
-msgstr ""
+msgstr "მწკრივები"
 
 #: source/gx/tilix/constants.d:160
 msgid "Process"
-msgstr ""
+msgstr "პროცესი"
 
 #: source/gx/tilix/constants.d:161
 msgid "Status.Read-Only"
@@ -1614,11 +1616,11 @@ msgstr ""
 
 #: source/gx/tilix/constants.d:197
 msgid "Application name"
-msgstr ""
+msgstr "აპლიკაციის სახელი"
 
 #: source/gx/tilix/constants.d:198
 msgid "Session name"
-msgstr ""
+msgstr "სესიის სახელი"
 
 #: source/gx/tilix/constants.d:199
 msgid "Session number"
@@ -1633,16 +1635,16 @@ msgstr ""
 #: source/gx/tilix/terminal/password.d:137
 #: source/gx/tilix/terminal/password.d:431 source/gx/tilix/session.d:1572
 msgid "Name"
-msgstr ""
+msgstr "სახელი"
 
 #: source/gx/tilix/bookmark/bmeditor.d:68
 #: source/gx/tilix/bookmark/bmchooser.d:126
 msgid "Select Folder"
-msgstr ""
+msgstr "აირჩიეთ საქაღალდე"
 
 #: source/gx/tilix/bookmark/bmeditor.d:74
 msgid "Select folder"
-msgstr ""
+msgstr "საქაღალდის არჩევა"
 
 #: source/gx/tilix/bookmark/bmeditor.d:86
 msgid "Clear folder"
@@ -1650,36 +1652,36 @@ msgstr ""
 
 #: source/gx/tilix/bookmark/bmeditor.d:150
 msgid "Add Bookmark"
-msgstr ""
+msgstr "სანიშნეს დამატება"
 
 #: source/gx/tilix/bookmark/bmeditor.d:150
 msgid "Edit Bookmark"
-msgstr ""
+msgstr "სანიშნეს ჩასწორება"
 
 #: source/gx/tilix/bookmark/bmeditor.d:292
 #: source/gx/tilix/bookmark/manager.d:687
 msgid "Path"
-msgstr ""
+msgstr "ბილიკი"
 
 #: source/gx/tilix/bookmark/bmeditor.d:294
 msgid "Select Path"
-msgstr ""
+msgstr "აირჩიეთ ბილიკი"
 
 #: source/gx/tilix/bookmark/bmeditor.d:382
 msgid "Protocol"
-msgstr ""
+msgstr "პროტოკოლი"
 
 #: source/gx/tilix/bookmark/bmeditor.d:398
 msgid "Host"
-msgstr ""
+msgstr "ჰოსტი"
 
 #: source/gx/tilix/bookmark/bmeditor.d:414
 msgid "User"
-msgstr ""
+msgstr "მომხმარებელი"
 
 #: source/gx/tilix/bookmark/bmeditor.d:421
 msgid "Parameters"
-msgstr ""
+msgstr "პარამეტრები"
 
 #: source/gx/tilix/bookmark/manager.d:233
 msgid "Error deserializing bookmark"
@@ -1687,7 +1689,7 @@ msgstr ""
 
 #: source/gx/tilix/bookmark/manager.d:537
 msgid "Root"
-msgstr ""
+msgstr "Root"
 
 #: source/gx/tilix/bookmark/manager.d:615
 msgid "Could not load bookmarks due to unexpected error"
@@ -1695,11 +1697,11 @@ msgstr ""
 
 #: source/gx/tilix/bookmark/manager.d:687
 msgid "Folder"
-msgstr ""
+msgstr "საქაღალდე"
 
 #: source/gx/tilix/bookmark/manager.d:687
 msgid "Remote"
-msgstr ""
+msgstr "დაშორებული"
 
 #: source/gx/tilix/bookmark/bmchooser.d:79
 msgid "Include return character with bookmark"
@@ -1707,7 +1709,7 @@ msgstr ""
 
 #: source/gx/tilix/bookmark/bmchooser.d:126
 msgid "Select Bookmark"
-msgstr ""
+msgstr "აირჩიეთ სანიშნე"
 
 #: source/gx/tilix/preferences.d:256
 msgid "UpdateState"
@@ -1748,15 +1750,15 @@ msgstr ""
 #: source/gx/tilix/preferences.d:374
 #, c-format
 msgid "%s (Copy)"
-msgstr ""
+msgstr "%s (კოპირება)"
 
 #: source/gx/tilix/terminal/layout.d:33
 msgid "Layout Options"
-msgstr ""
+msgstr "განლაგების მორგება"
 
 #: source/gx/tilix/terminal/layout.d:48
 msgid "Active"
-msgstr ""
+msgstr "აქტიური"
 
 #: source/gx/tilix/terminal/layout.d:82
 msgid "Session Load"
@@ -1770,7 +1772,7 @@ msgstr ""
 
 #: source/gx/tilix/terminal/password.d:161
 msgid "New"
-msgstr ""
+msgstr "ახალი"
 
 #: source/gx/tilix/terminal/password.d:235
 msgid "Include return character with password"
@@ -1782,19 +1784,19 @@ msgstr ""
 
 #: source/gx/tilix/terminal/password.d:441
 msgid "Password"
-msgstr ""
+msgstr "პაროლი"
 
 #: source/gx/tilix/terminal/password.d:451
 msgid "Confirm Password"
-msgstr ""
+msgstr "გაიმეორეთ პაროლი"
 
 #: source/gx/tilix/terminal/password.d:499
 msgid "Add Password"
-msgstr ""
+msgstr "პაროლის დამატება"
 
 #: source/gx/tilix/terminal/password.d:504
 msgid "Edit Password"
-msgstr ""
+msgstr "პაროლის ჩასწორება"
 
 #: source/gx/tilix/terminal/advpaste.d:33
 msgid "This command is asking for Administrative access to your computer"
@@ -1810,7 +1812,7 @@ msgstr ""
 
 #: source/gx/tilix/terminal/advpaste.d:96
 msgid "Transform"
-msgstr ""
+msgstr "ტრასფორმირება"
 
 #: source/gx/tilix/terminal/advpaste.d:104
 msgid "Convert spaces to tabs"
@@ -1828,19 +1830,19 @@ msgstr ""
 #: source/gx/tilix/terminal/terminal.d:1825
 #: source/gx/tilix/terminal/terminal.d:1843
 msgid "Paste"
-msgstr ""
+msgstr "ჩასმა"
 
 #: source/gx/tilix/terminal/search.d:128
 msgid "Search Options"
-msgstr ""
+msgstr "ძებნის მორგება"
 
 #: source/gx/tilix/terminal/search.d:141
 msgid "Find next"
-msgstr ""
+msgstr "მომდევნოს მოძებნა"
 
 #: source/gx/tilix/terminal/search.d:147
 msgid "Find previous"
-msgstr ""
+msgstr "წინანდელის ძიება"
 
 #: source/gx/tilix/terminal/search.d:155
 msgid "Close search box"
@@ -1848,15 +1850,15 @@ msgstr ""
 
 #: source/gx/tilix/terminal/search.d:205
 msgid "Match case"
-msgstr ""
+msgstr "დიდი და პატარა ასოების სხვაობა"
 
 #: source/gx/tilix/terminal/search.d:206
 msgid "Match entire word only"
-msgstr ""
+msgstr "მხოლოდ მთლიანი სიტყვის დამთხვევა"
 
 #: source/gx/tilix/terminal/search.d:207
 msgid "Wrap around"
-msgstr ""
+msgstr "სიტყვების გადატანა"
 
 #: source/gx/tilix/terminal/search.d:208
 msgid "Match as regular expression"
@@ -1873,7 +1875,7 @@ msgstr ""
 #: source/gx/tilix/terminal/terminal.d:1349
 #: source/gx/tilix/terminal/terminal.d:1860
 msgid "Maximize"
-msgstr ""
+msgstr "გადიდება"
 
 #: source/gx/tilix/terminal/terminal.d:401
 #: source/gx/tilix/terminal/terminal.d:692
@@ -1883,7 +1885,7 @@ msgstr ""
 #: source/gx/tilix/terminal/terminal.d:410
 #: source/gx/tilix/terminal/terminal.d:829
 msgid "Read-Only"
-msgstr ""
+msgstr "მხოლოდ-კითხვადი"
 
 #: source/gx/tilix/terminal/terminal.d:416
 msgid "New output"
@@ -1891,11 +1893,11 @@ msgstr ""
 
 #: source/gx/tilix/terminal/terminal.d:467
 msgid "Edit Profile"
-msgstr ""
+msgstr "პროფილის ჩასწორება"
 
 #: source/gx/tilix/terminal/terminal.d:485
 msgid "Edit Encodings"
-msgstr ""
+msgstr "კოდირების ჩასწორება"
 
 #: source/gx/tilix/terminal/terminal.d:694
 msgid "Enable input synchronization for this terminal"
@@ -1909,15 +1911,15 @@ msgstr ""
 
 #: source/gx/tilix/terminal/terminal.d:729
 msgid "Library Not Loaded"
-msgstr ""
+msgstr "ბიბლიოთეკა ჩატვირთული არაა"
 
 #: source/gx/tilix/terminal/terminal.d:828
 msgid "Find…"
-msgstr ""
+msgstr "ძებნა…"
 
 #: source/gx/tilix/terminal/terminal.d:835
 msgid "Password..."
-msgstr ""
+msgstr "პაროლი..."
 
 #: source/gx/tilix/terminal/terminal.d:836
 msgid "Bookmark..."
@@ -1925,11 +1927,11 @@ msgstr ""
 
 #: source/gx/tilix/terminal/terminal.d:837
 msgid "Add Bookmark..."
-msgstr ""
+msgstr "სანიშნეს დამატება..."
 
 #: source/gx/tilix/terminal/terminal.d:841
 msgid "Assistants"
-msgstr ""
+msgstr "დამხმარეები"
 
 #: source/gx/tilix/terminal/terminal.d:848
 msgid "Show File Browser..."
@@ -1941,7 +1943,7 @@ msgstr ""
 
 #: source/gx/tilix/terminal/terminal.d:854
 msgid "Reset and Clear"
-msgstr ""
+msgstr "განულება და გაწმენდა"
 
 #: source/gx/tilix/terminal/terminal.d:859
 msgid "Layout Options…"
@@ -1953,7 +1955,7 @@ msgstr ""
 
 #: source/gx/tilix/terminal/terminal.d:866
 msgid "Other"
-msgstr ""
+msgstr "სხვა"
 
 #: source/gx/tilix/terminal/terminal.d:875
 msgid "Add Right"
@@ -1969,12 +1971,12 @@ msgstr ""
 
 #: source/gx/tilix/terminal/terminal.d:1325
 msgid "Not Enabled"
-msgstr ""
+msgstr "არ არის ჩართული"
 
 #: source/gx/tilix/terminal/terminal.d:1346
 #: source/gx/tilix/terminal/terminal.d:1860
 msgid "Restore"
-msgstr ""
+msgstr "აღდგენა"
 
 #: source/gx/tilix/terminal/terminal.d:1709
 msgid "Tilix Custom Notification"
@@ -1982,26 +1984,26 @@ msgstr ""
 
 #: source/gx/tilix/terminal/terminal.d:1810
 msgid "Open Link"
-msgstr ""
+msgstr "ბმულის გახსნა"
 
 #: source/gx/tilix/terminal/terminal.d:1811
 msgid "Copy Link Address"
-msgstr ""
+msgstr "ბმულის მისამართის კოპირება"
 
 #: source/gx/tilix/terminal/terminal.d:1821
 #: source/gx/tilix/terminal/terminal.d:1831
 msgid "Copy"
-msgstr ""
+msgstr "კოპირება"
 
 #: source/gx/tilix/terminal/terminal.d:1823
 #: source/gx/tilix/terminal/terminal.d:1837
 msgid "Copy as HTML"
-msgstr ""
+msgstr "HTML-ად კოპირება"
 
 #: source/gx/tilix/terminal/terminal.d:1826
 #: source/gx/tilix/terminal/terminal.d:1848
 msgid "Select All"
-msgstr ""
+msgstr "ყველაფრის მონიშვნა"
 
 #: source/gx/tilix/terminal/terminal.d:1865
 msgid "Synchronize input"
@@ -2031,7 +2033,7 @@ msgstr ""
 
 #: source/gx/tilix/terminal/terminal.d:2060
 msgid "Regular Expression Error"
-msgstr ""
+msgstr "რეგულარული გამოსახულების შეცდომა"
 
 #: source/gx/tilix/terminal/terminal.d:2073
 #, c-format
@@ -2062,11 +2064,11 @@ msgstr ""
 
 #: source/gx/tilix/terminal/terminal.d:3671
 msgid "All Text Files"
-msgstr ""
+msgstr "ყველა ტექსტური ფაილი"
 
 #: source/gx/tilix/terminal/terminal.d:4001
 msgid "Unknown"
-msgstr ""
+msgstr "უცნობი"
 
 #: source/gx/tilix/terminal/terminal.d:4265
 #, c-format
@@ -2076,23 +2078,23 @@ msgstr ""
 #: source/gx/tilix/terminal/terminal.d:4266
 #, c-format
 msgid "The child process was aborted by signal %d."
-msgstr ""
+msgstr "შვილეული პროცესი შეწყდა სიგნალის მიერ: %d."
 
 #: source/gx/tilix/terminal/terminal.d:4267
 msgid "The child process was aborted."
-msgstr ""
+msgstr "შვილეული პროცესი შეწყდა."
 
 #: source/gx/tilix/terminal/terminal.d:4273
 msgid "Relaunch"
-msgstr ""
+msgstr "_თავიდან გაშვება"
 
 #: source/gx/tilix/terminal/terminal.d:4340
 msgid "Don't Paste"
-msgstr ""
+msgstr "არ ჩასვა"
 
 #: source/gx/tilix/terminal/terminal.d:4341
 msgid "Paste Anyway"
-msgstr ""
+msgstr "მაინც ჩასმა"
 
 #: source/gx/tilix/terminal/monitor.d:112
 msgid "Process monitoring is not enabled, this should never be called"
@@ -2147,11 +2149,11 @@ msgstr ""
 
 #: source/app.d:167
 msgid "Error: "
-msgstr ""
+msgstr "შეცდომა: "
 
 #: source/app.d:177
 msgid "Versions"
-msgstr ""
+msgstr "ვერსიები"
 
 #: source/app.d:178
 #, c-format
@@ -2219,12 +2221,12 @@ msgstr ""
 #: data/resources/ui/shortcuts.ui:10 data/resources/ui/shortcuts.ui:15
 msgctxt "shortcut window"
 msgid "Application"
-msgstr ""
+msgstr "აპლიკაცია"
 
 #: data/resources/ui/shortcuts.ui:19
 msgctxt "shortcut window"
 msgid "Open a new window"
-msgstr ""
+msgstr "ახალი ფანჯრის გახსნა"
 
 #: data/resources/ui/shortcuts.ui:25
 msgctxt "shortcut window"
@@ -2234,22 +2236,22 @@ msgstr ""
 #: data/resources/ui/shortcuts.ui:31
 msgctxt "shortcut window"
 msgid "Open preferences"
-msgstr ""
+msgstr "მორგების ფანჯრის გახსნა"
 
 #: data/resources/ui/shortcuts.ui:37
 msgctxt "shortcut window"
 msgid "Show keyboard shortcuts"
-msgstr ""
+msgstr "კლავიატურის მალსახმობების ჩვენება"
 
 #: data/resources/ui/shortcuts.ui:45
 msgctxt "shortcut window"
 msgid "Window"
-msgstr ""
+msgstr "ფანჯარა"
 
 #: data/resources/ui/shortcuts.ui:49
 msgctxt "shortcut window"
 msgid "Toggle fullscreen mode"
-msgstr ""
+msgstr "სრული ეკრანის რეჟიმზე გადასვლის გადართვა"
 
 #: data/resources/ui/shortcuts.ui:55
 msgctxt "shortcut window"
@@ -2329,12 +2331,12 @@ msgstr ""
 #: data/resources/ui/shortcuts.ui:150
 msgctxt "shortcut window"
 msgid "Session"
-msgstr ""
+msgstr "სესია"
 
 #: data/resources/ui/shortcuts.ui:155
 msgctxt "shortcut window"
 msgid "File"
-msgstr ""
+msgstr "ფაილი"
 
 #: data/resources/ui/shortcuts.ui:159
 msgctxt "shortcut window"
@@ -2359,7 +2361,7 @@ msgstr ""
 #: data/resources/ui/shortcuts.ui:185
 msgctxt "shortcut window"
 msgid "Add"
-msgstr ""
+msgstr "დამატება"
 
 #: data/resources/ui/shortcuts.ui:189
 msgctxt "shortcut window"
@@ -2379,32 +2381,32 @@ msgstr ""
 #: data/resources/ui/shortcuts.ui:209
 msgctxt "shortcut window"
 msgid "Resize"
-msgstr ""
+msgstr "ზომის შეცვლა"
 
 #: data/resources/ui/shortcuts.ui:213
 msgctxt "shortcut window"
 msgid "Resize the terminal up"
-msgstr ""
+msgstr "ტერმინალის ზომის შეცვლა ზემოთ"
 
 #: data/resources/ui/shortcuts.ui:219
 msgctxt "shortcut window"
 msgid "Resize the terminal down"
-msgstr ""
+msgstr "ტერმინალის ზომის შეცვლა ქვემოთ"
 
 #: data/resources/ui/shortcuts.ui:225
 msgctxt "shortcut window"
 msgid "Resize the terminal left"
-msgstr ""
+msgstr "ტერმინალის ზომის შეცვლა მარცხნივ"
 
 #: data/resources/ui/shortcuts.ui:231
 msgctxt "shortcut window"
 msgid "Resize the terminal right"
-msgstr ""
+msgstr "ტერმინალის ზომის შეცვლა მარჯვნივ"
 
 #: data/resources/ui/shortcuts.ui:239 data/resources/ui/shortcuts.ui:511
 msgctxt "shortcut window"
 msgid "Other"
-msgstr ""
+msgstr "სხვა"
 
 #: data/resources/ui/shortcuts.ui:243
 msgctxt "shortcut window"
@@ -2419,7 +2421,7 @@ msgstr ""
 #: data/resources/ui/shortcuts.ui:257 data/resources/ui/shortcuts.ui:299
 msgctxt "shortcut window"
 msgid "Switch"
-msgstr ""
+msgstr "გადართვა"
 
 #: data/resources/ui/shortcuts.ui:261
 msgctxt "shortcut window"
@@ -2504,32 +2506,32 @@ msgstr ""
 #: data/resources/ui/shortcuts.ui:368
 msgctxt "shortcut window"
 msgid "Terminal"
-msgstr ""
+msgstr "ტერმინალი"
 
 #: data/resources/ui/shortcuts.ui:373 data/resources/ui/shortcuts.ui:377
 msgctxt "shortcut window"
 msgid "Find"
-msgstr ""
+msgstr "ძებნა"
 
 #: data/resources/ui/shortcuts.ui:383
 msgctxt "shortcut window"
 msgid "Find next"
-msgstr ""
+msgstr "მომდევნოს მოძებნა"
 
 #: data/resources/ui/shortcuts.ui:389
 msgctxt "shortcut window"
 msgid "Find previous"
-msgstr ""
+msgstr "წინანდელის ძიება"
 
 #: data/resources/ui/shortcuts.ui:397
 msgctxt "shortcut window"
 msgid "Clipboard"
-msgstr ""
+msgstr "გაცვლის ბუფერი"
 
 #: data/resources/ui/shortcuts.ui:401
 msgctxt "shortcut window"
 msgid "Copy"
-msgstr ""
+msgstr "კოპირება"
 
 #: data/resources/ui/shortcuts.ui:407
 msgctxt "shortcut window"
@@ -2539,12 +2541,12 @@ msgstr ""
 #: data/resources/ui/shortcuts.ui:413
 msgctxt "shortcut window"
 msgid "Paste"
-msgstr ""
+msgstr "ჩასმა"
 
 #: data/resources/ui/shortcuts.ui:419
 msgctxt "shortcut window"
 msgid "Paste selection"
-msgstr ""
+msgstr "მონიშნულის ჩასმა"
 
 #: data/resources/ui/shortcuts.ui:425
 msgctxt "shortcut window"
@@ -2554,27 +2556,27 @@ msgstr ""
 #: data/resources/ui/shortcuts.ui:431
 msgctxt "shortcut window"
 msgid "Select all"
-msgstr ""
+msgstr "ყველას მონიშვნა"
 
 #: data/resources/ui/shortcuts.ui:437
 msgctxt "shortcut window"
 msgid "Unselect all"
-msgstr ""
+msgstr "მონიშვნის ყველაფერზე მოხსნა"
 
 #: data/resources/ui/shortcuts.ui:445
 msgctxt "shortcut window"
 msgid "Zoom"
-msgstr ""
+msgstr "მასშტაბი"
 
 #: data/resources/ui/shortcuts.ui:449
 msgctxt "shortcut window"
 msgid "Zoom in"
-msgstr ""
+msgstr "გადიდება"
 
 #: data/resources/ui/shortcuts.ui:455
 msgctxt "shortcut window"
 msgid "Zoom out"
-msgstr ""
+msgstr "დაპატარავება"
 
 #: data/resources/ui/shortcuts.ui:461
 msgctxt "shortcut window"
@@ -2584,27 +2586,27 @@ msgstr ""
 #: data/resources/ui/shortcuts.ui:469
 msgctxt "shortcut window"
 msgid "Navigation"
-msgstr ""
+msgstr "ნავიგაცია"
 
 #: data/resources/ui/shortcuts.ui:473
 msgctxt "shortcut window"
 msgid "Scroll up"
-msgstr ""
+msgstr "მაღლა აწევა"
 
 #: data/resources/ui/shortcuts.ui:479
 msgctxt "shortcut window"
 msgid "Scroll down"
-msgstr ""
+msgstr "დაბლა ჩამოწევა"
 
 #: data/resources/ui/shortcuts.ui:485
 msgctxt "shortcut window"
 msgid "Page up"
-msgstr ""
+msgstr "ზედა გვერდი"
 
 #: data/resources/ui/shortcuts.ui:491
 msgctxt "shortcut window"
 msgid "Page down"
-msgstr ""
+msgstr "ქვედა გვერდი"
 
 #: data/resources/ui/shortcuts.ui:497
 msgctxt "shortcut window"
@@ -2624,12 +2626,12 @@ msgstr ""
 #: data/resources/ui/shortcuts.ui:521
 msgctxt "shortcut window"
 msgid "Close terminal"
-msgstr ""
+msgstr "ტერმინალის დახურვა"
 
 #: data/resources/ui/shortcuts.ui:527
 msgctxt "shortcut window"
 msgid "Maximize terminal"
-msgstr ""
+msgstr "ტერმინალის გადიდება"
 
 #: data/resources/ui/shortcuts.ui:533
 msgctxt "shortcut window"
@@ -2639,12 +2641,12 @@ msgstr ""
 #: data/resources/ui/shortcuts.ui:539
 msgctxt "shortcut window"
 msgid "Reset the terminal"
-msgstr ""
+msgstr "ტერმინალის ჩამოყრა"
 
 #: data/resources/ui/shortcuts.ui:545
 msgctxt "shortcut window"
 msgid "Reset and clear the terminal"
-msgstr ""
+msgstr "ტერმინალის ჩამოყრა და გასუთავება"
 
 #: data/resources/ui/shortcuts.ui:551
 msgctxt "shortcut window"
@@ -2659,7 +2661,7 @@ msgstr ""
 #: data/resources/ui/shortcuts.ui:563
 msgctxt "shortcut window"
 msgid "Insert terminal number"
-msgstr ""
+msgstr "ჩასვით ტერმინალის ნომერი"
 
 #: data/resources/ui/shortcuts.ui:569
 msgctxt "shortcut window"
@@ -2674,7 +2676,7 @@ msgstr ""
 #: data/resources/ui/shortcuts.ui:581
 msgctxt "shortcut window"
 msgid "Add bookmark"
-msgstr ""
+msgstr "სანიშნეს დამატება"
 
 #: data/resources/ui/shortcuts.ui:587
 msgctxt "shortcut window"
@@ -2704,12 +2706,12 @@ msgstr ""
 #: data/resources/ui/shortcuts.ui:622
 msgctxt "shortcut window"
 msgid "Nautilus"
-msgstr ""
+msgstr "Nautilus"
 
 #: data/resources/ui/shortcuts.ui:627
 msgctxt "shortcut window"
 msgid "Open"
-msgstr ""
+msgstr "გახსნა"
 
 #: data/resources/ui/shortcuts.ui:631
 msgctxt "shortcut window"
@@ -2719,7 +2721,7 @@ msgstr ""
 #: data/resources/ui/shortcuts.ui:642 data/resources/ui/shortcuts.ui:647
 msgctxt "shortcut window"
 msgid "Profile"
-msgstr ""
+msgstr "პროფილი"
 
 #: data/pkg/desktop/com.gexperts.Tilix.desktop.in:5
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:5
@@ -2728,7 +2730,7 @@ msgstr ""
 
 #: data/pkg/desktop/com.gexperts.Tilix.desktop.in:6
 msgid "shell;prompt;command;commandline;cmd;"
-msgstr ""
+msgstr "shell;prompt;command;commandline;cmd;"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:9
 msgid "Tilix is a tiling terminal emulator."
@@ -2736,7 +2738,7 @@ msgstr ""
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:12
 msgid "It lets you:"
-msgstr ""
+msgstr "ის საშუალებას გაძლევთ:"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:14
 msgid ""
@@ -2775,7 +2777,7 @@ msgstr ""
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:21
 msgid "Transparent background"
-msgstr ""
+msgstr "გამჭვირვალე ფონი"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:22
 msgid "Supports notifications when processes are completed out of view"
@@ -2799,7 +2801,7 @@ msgstr ""
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:59
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:85
 msgid "This release adds the following features:"
-msgstr ""
+msgstr "ეს რელიზი ამატებს შემდეგ ფუნქციებს:"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:61
 msgid "Disable advanced paste when there is no linebreak like iTerm2"
@@ -2818,7 +2820,7 @@ msgstr ""
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:120
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:130
 msgid "This release fixes the following bugs:"
-msgstr ""
+msgstr "ამ რელიზში გასწორდა შემდეგი ხარვეზები:"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:67
 msgid "More appdata -&gt; metainfo move"
@@ -2944,7 +2946,7 @@ msgstr ""
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:112
 msgid "This release fixes the following bug:"
-msgstr ""
+msgstr "ამ გამოცემაში გასწორდა შემდეგი ხარვეზი:"
 
 #: data/metainfo/com.gexperts.Tilix.appdata.xml.rel.in:114
 msgid ""
